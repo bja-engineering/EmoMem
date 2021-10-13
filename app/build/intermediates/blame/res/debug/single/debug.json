@@ -1,0 +1,998 @@
+[
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ws_switch_thumb_mtrl_17w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xhdpi-v4\\ws_switch_thumb_mtrl_17w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\color_circular_button.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\color\\circular_button.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_1f9e0_brain.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\img_1f9e0_brain.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_generic_confirmation_animation_interpolator_3.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\interpolator-v21\\generic_confirmation_animation_interpolator_3.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21_circular_image_button_anim.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\animator-v21\\circular_image_button_anim.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_accept_deny_dialog.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout-v21\\accept_deny_dialog.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close_button.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable\\close_button.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ws_switch_thumb_mtrl_15w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xxhdpi-v4\\ws_switch_thumb_mtrl_15w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ws_full_sad.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-hdpi-v4\\ws_full_sad.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_page_nav_drawer_4_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\single_page_nav_drawer_4_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings_slide.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\fragment_settings_slide.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-beta01.aar\\6e4d06aca9b4c2712375a9d77c6c07a8\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\color-v21_btn_colored_background_material.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\color-v21\\btn_colored_background_material.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_expand_more_white_22.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v21\\ic_expand_more_white_22.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_1f464_user.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\img_1f464_user.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_open_on_phone_animation_interpolator_1.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\interpolator-v21\\open_on_phone_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ws_switch_track_mtrl.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xxhdpi-v4\\ws_switch_track_mtrl.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_single_page_nav_drawer_peek_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_single_page_nav_drawer_peek_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ws_action_item_icon_background.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable\\ws_action_item_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ws_switch_thumb_mtrl_14w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xxhdpi-v4\\ws_switch_thumb_mtrl_14w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_generic_confirmation_animation_interpolator_2.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\interpolator-v21\\generic_confirmation_animation_interpolator_2.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled_bottomright.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled_bottomright.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_card_frame_pressed.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-mdpi-v4\\card_frame_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_ic_more_vert_24dp_wht.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v23\\ic_more_vert_24dp_wht.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_alert_dialog_wearable.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_drawer_item_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_open_on_phone_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\interpolator-v21\\open_on_phone_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ws_switch_thumb_mtrl_18w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-hdpi-v4\\ws_switch_thumb_mtrl_18w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ws_switch_thumb_mtrl_16w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xhdpi-v4\\ws_switch_thumb_mtrl_16w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_action_drawer_item_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_action_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled_center_red.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled_center_red.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ws_switch_thumb_mtrl_16w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xxhdpi-v4\\ws_switch_thumb_mtrl_16w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_td_emomem_bg_filled_bottomright.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\td_emomem_bg_filled_bottomright.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_full_cancel.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-hdpi-v4\\ic_full_cancel.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_1f60a_pleasure.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\img_1f60a_pleasure.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_ic_cc_settings_button_center.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v23\\ic_cc_settings_button_center.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ws_switch_track_mtrl.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xhdpi-v4\\ws_switch_track_mtrl.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_bak.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\activity_main_bak.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_single_page_nav_drawer_5_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_single_page_nav_drawer_5_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_full_cancel.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-xhdpi-v4\\ic_full_cancel.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_action_item_icon_background.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v23\\action_item_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ws_switch_thumb_mtrl_14w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-hdpi-v4\\ws_switch_thumb_mtrl_14w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_screen_slide_page.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\fragment_screen_slide_page.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_open_on_phone_arrow_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\anim-v21\\open_on_phone_arrow_animation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_full_sad.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-hdpi-v4\\ic_full_sad.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ws_ic_expand_less_white_22.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable\\ws_ic_expand_less_white_22.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings_slide_bak.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\fragment_settings_slide_bak.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_open_on_phone.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v21\\open_on_phone.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_generic_confirmation_icon_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\anim-v21\\generic_confirmation_icon_animation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ws_switch_thumb_material_anim.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable\\ws_switch_thumb_material_anim.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_drawer_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\navigation_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_td_emomem_bg_filled_topleft.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\td_emomem_bg_filled_topleft.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23_action_drawer_peek_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout-v23\\action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_overlay_confirmation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout-v21\\overlay_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_preference_wrapped_icon.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v23\\preference_wrapped_icon.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_page_nav_drawer_6_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\single_page_nav_drawer_6_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled_center.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled_center.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_open_on_phone_path_2_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\anim-v21\\open_on_phone_path_2_animation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_card_frame_pressed.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-hdpi-v4\\card_frame_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-beta01.aar\\6e4d06aca9b4c2712375a9d77c6c07a8\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ws_switch_track_mtrl.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-hdpi-v4\\ws_switch_track_mtrl.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_action_item_background.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v23\\action_item_background.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_open_on_phone_path_1_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\anim-v21\\open_on_phone_path_1_animation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_decomposition_config_activity.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\decomposition_config_activity.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\color_card_text_color.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\color\\card_text_color.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_cc_clear.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v21\\ic_cc_clear.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_page_nav_drawer_3_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\single_page_nav_drawer_3_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_1f620_anger.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\img_1f620_anger.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ws_action_item_background.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable\\ws_action_item_background.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_single_page_nav_drawer_4_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_single_page_nav_drawer_4_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-beta01.aar\\6e4d06aca9b4c2712375a9d77c6c07a8\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim_generic_confirmation_animation_interpolator_3.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\anim\\generic_confirmation_animation_interpolator_3.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v20_watch_card_content.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout-v20\\watch_card_content.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ws_switch_thumb_mtrl_18w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xxhdpi-v4\\ws_switch_thumb_mtrl_18w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled_topright.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled_topright.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_1f465_group.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\img_1f465_group.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\color_ws_switch_thumb_color_material.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\color\\ws_switch_thumb_color_material.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_cc_checkmark.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v21\\ic_cc_checkmark.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim_generic_confirmation_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\anim\\generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\color_ws_switch_track_color_material.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\color\\ws_switch_track_color_material.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim_generic_confirmation_animation_interpolator_2.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\anim\\generic_confirmation_animation_interpolator_2.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_overlay_confirmation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_overlay_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled_center_yellow.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled_center_yellow.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-beta01.aar\\6e4d06aca9b4c2712375a9d77c6c07a8\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_td_emomem_bg_filled_top.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\td_emomem_bg_filled_top.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_screen_slide.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\activity_screen_slide.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ws_switch_thumb_mtrl_16w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-hdpi-v4\\ws_switch_thumb_mtrl_16w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_1f913_alertness.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\img_1f913_alertness.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_single_page_nav_drawer_1_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_single_page_nav_drawer_1_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_ic_cc_settings_button_e.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v23\\ic_cc_settings_button_e.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-beta01.aar\\6e4d06aca9b4c2712375a9d77c6c07a8\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_single_page_nav_drawer_text.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_single_page_nav_drawer_text.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_page_nav_drawer_7_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\single_page_nav_drawer_7_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_button_icon_color.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\color-v23\\button_icon_color.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_action_drawer_peek_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ws_ic_more_vert_24dp_wht.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable\\ws_ic_more_vert_24dp_wht.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim_generic_confirmation_animation_interpolator_1.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\anim\\generic_confirmation_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_full_sad.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-xhdpi-v4\\ic_full_sad.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_slide_bak.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\fragment_main_slide_bak.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_ic_expand_less_white_22.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v23\\ic_expand_less_white_22.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_full_cancel.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-mdpi-v4\\ic_full_cancel.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ws_open_on_phone_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable\\ws_open_on_phone_animation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ws_ic_more_horiz_24dp_wht.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable\\ws_ic_more_horiz_24dp_wht.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_td_emomem_bg_filled_bottomleft.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\td_emomem_bg_filled_bottomleft.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_navigation_drawer_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_navigation_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_about.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\view_about.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_single_page_nav_drawer_7_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_single_page_nav_drawer_7_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled_center_blue.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled_center_blue.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled_bottomleft.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled_bottomleft.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_accept_deny_dialog_negative_bg.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v21\\accept_deny_dialog_negative_bg.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_open_on_phone_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v21\\open_on_phone_animation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-beta01.aar\\6e4d06aca9b4c2712375a9d77c6c07a8\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_screen_slide_bak.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\activity_screen_slide_bak.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_slide.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\fragment_main_slide.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_td_emomem_bg_filled_topright.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\td_emomem_bg_filled_topright.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_card_frame_pressed.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-xhdpi-v4\\card_frame_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ws_switch_thumb_mtrl_15w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xhdpi-v4\\ws_switch_thumb_mtrl_15w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23_action_drawer_title_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout-v23\\action_drawer_title_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-beta01.aar\\6e4d06aca9b4c2712375a9d77c6c07a8\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ws_switch_thumb_mtrl_14w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xhdpi-v4\\ws_switch_thumb_mtrl_14w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_image2vector.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_image2vector.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_ic_cc_settings_button_bottom.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v23\\ic_cc_settings_button_bottom.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_action_drawer_title_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_action_drawer_title_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ws_switch_thumb_mtrl_17w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xxhdpi-v4\\ws_switch_thumb_mtrl_17w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_page_nav_drawer_2_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\single_page_nav_drawer_2_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_single_page_nav_drawer_3_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_single_page_nav_drawer_3_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_white_24dp.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_navigation_drawer_item_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_card_frame.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-mdpi-v4\\card_frame.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_generic_confirmation_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\interpolator-v21\\generic_confirmation_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim_open_on_phone_animation_interpolator_1.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\anim\\open_on_phone_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ws_switch_thumb_mtrl_18w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xhdpi-v4\\ws_switch_thumb_mtrl_18w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_accept_deny_dialog_positive_bg.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v21\\accept_deny_dialog_positive_bg.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled_center_yellow_lessbright.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled_center_yellow_lessbright.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_slide_320.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\fragment_main_slide_320.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ws_switch_thumb_mtrl_17w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-hdpi-v4\\ws_switch_thumb_mtrl_17w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ws_full_sad.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-xhdpi-v4\\ws_full_sad.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-beta01.aar\\6e4d06aca9b4c2712375a9d77c6c07a8\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_generic_confirmation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v21\\generic_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_generic_confirmation_animation_interpolator_1.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\interpolator-v21\\generic_confirmation_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23_wearable_drawer_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout-v23\\wearable_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_full_sad.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-mdpi-v4\\ic_full_sad.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_dismiss_overlay.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout-v21\\dismiss_overlay.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-beta01.aar\\6e4d06aca9b4c2712375a9d77c6c07a8\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled_top.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled_top.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_ic_more_horiz_24dp_wht.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v23\\ic_more_horiz_24dp_wht.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim_open_on_phone_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\anim\\open_on_phone_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_wearable_drawer_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_wearable_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_card_frame.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-hdpi-v4\\card_frame.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_page_nav_drawer_peek_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\single_page_nav_drawer_peek_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_generic_confirmation_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v21\\generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_page_nav_drawer_5_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\single_page_nav_drawer_5_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_generic_confirmation_generic_confirmation_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\anim-v21\\generic_confirmation_generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_td_emomem_bg_filled_center.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\td_emomem_bg_filled_center.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_single_page_nav_drawer_2_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_single_page_nav_drawer_2_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ws_switch_thumb_mtrl_15w.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable-hdpi-v4\\ws_switch_thumb_mtrl_15w.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ws_ic_expand_more_white_22.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\drawable\\ws_ic_expand_more_white_22.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_card_frame.9.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-xhdpi-v4\\card_frame.9.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\8e2c34ddeb6e57f8c80b41deb8d42627\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_1f622_sadness.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\img_1f622_sadness.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_ic_cc_settings_button_top.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\drawable-v23\\ic_cc_settings_button_top.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_ws_single_page_nav_drawer_6_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\layout\\ws_single_page_nav_drawer_6_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\color_card_grey_text_color.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\color\\card_grey_text_color.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emomem_bg_filled_topleft.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\ic_emomem_bg_filled_topleft.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\anim_generic_confirmation_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wear-28.0.0-beta01.aar\\dc6b8e190a0f32f498c90afeddee8251\\res\\anim\\generic_confirmation_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_page_nav_drawer_1_item.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout\\single_page_nav_drawer_1_item.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings_2.xml.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\layout\\fragment_settings_2.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_1f628_fear.png.flat",
+        "source": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\src\\main\\res\\drawable\\img_1f628_fear.png"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23_action_drawer_item_view.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b9b53ebbd55c4909d6423af8b41a413b\\res\\layout-v23\\action_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Data\\Workspace\\Android Studio\\EmoMem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\ac9a90d6e60a94c02257ab692c4872e3\\res\\drawable\\notification_icon_background.xml"
+    }
+]

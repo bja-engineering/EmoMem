@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b9b53ebbd55c4909d6423af8b41a413b\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-wearable-15.0.1.aar\3e1be0b52677e7f68a7a6de720561c4c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:percent:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\percent-28.0.0-beta01.aar\baca3cccf8bcd949afc98b167ae13cfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8e2c34ddeb6e57f8c80b41deb8d42627\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3295c039d036e2fa58b7b97180844948\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3315b574b3cb0ecfeb33c486eca5a6ef\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-beta01.aar\f473beb8b27265546a8d4ada146091be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:wear:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\wear-28.0.0-beta01.aar\dc6b8e190a0f32f498c90afeddee8251\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-beta01.aar\02a5d0db9c3e4982f3f5e007c3558bb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-beta01.aar\ec21912bbf654788e702aa1264712a85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-beta01.aar\9ac6e983bdf33796b16d5ba005bbad09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-beta01.aar\b5cb6e3463c8f42d86591ba95e294e13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-beta01.aar\b7f1dd10af8311a0f07adba1a0c6c4d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-beta01.aar\d7c9bd9fef030373eaf89a42fd9c8cc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-beta01.aar\fad98670cb62d3ba485abb6828599488\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-beta01.aar\51d61bbf041cc0dadc3df1a89ef5e080\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-beta01.aar\756a2e57b2b36b53fe06e255b6cf185c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-beta01.aar\19d40b17509550c3de323556778e7333\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-beta01.aar\4a16c5c2594717ced67d625b6ded310d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-beta01.aar\f4a50fa47418ef2617e85ad7d8bc84c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-beta01.aar\6e4d06aca9b4c2712375a9d77c6c07a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\ac9a90d6e60a94c02257ab692c4872e3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:interpolator:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-beta01.aar\a6d6554fac31fb32ac827e1745e198a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-beta01.aar\952c325825fc67783703b067e467192e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\73d13f0fe0b7572cc99cd6bcf9aa0abd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c8a5191964027fdcfce9fb8ce5d86a9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-beta01.aar\b16b675a135a7d7cbe49537bd4db0cc1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-beta01.aar\4ba1072e7f0aec3fa6c0b30df43975fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-beta01.aar\e8efb6ca48392512d34da71db6b432c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\print-28.0.0-beta01.aar\4c13465680de228eaaccdeba70ba2ffa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1963fc9d18cf89d79ec330272d20a724\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f054f444ceab492b953a84c44c8bbbaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2e36cde8d6dbce804880f823197d5088\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.type.watch
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:5:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:11:5-38:19
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b9b53ebbd55c4909d6423af8b41a413b\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b9b53ebbd55c4909d6423af8b41a413b\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-wearable-15.0.1.aar\3e1be0b52677e7f68a7a6de720561c4c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-wearable-15.0.1.aar\3e1be0b52677e7f68a7a6de720561c4c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8e2c34ddeb6e57f8c80b41deb8d42627\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8e2c34ddeb6e57f8c80b41deb8d42627\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3295c039d036e2fa58b7b97180844948\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3295c039d036e2fa58b7b97180844948\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3315b574b3cb0ecfeb33c486eca5a6ef\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3315b574b3cb0ecfeb33c486eca5a6ef\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\ac9a90d6e60a94c02257ab692c4872e3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\ac9a90d6e60a94c02257ab692c4872e3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-beta01.aar\b16b675a135a7d7cbe49537bd4db0cc1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-beta01.aar\b16b675a135a7d7cbe49537bd4db0cc1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2e36cde8d6dbce804880f823197d5088\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2e36cde8d6dbce804880f823197d5088\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\ac9a90d6e60a94c02257ab692c4872e3\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:13:9-52
+	android:allowBackup
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:16:9-59
+uses-library#com.google.android.wearable
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:17:9-19:39
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b9b53ebbd55c4909d6423af8b41a413b\AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b9b53ebbd55c4909d6423af8b41a413b\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:18:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:24:9-26:36
+	android:value
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:25:13-66
+activity#com.example.alex.emomem.MainActivity
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b9b53ebbd55c4909d6423af8b41a413b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b9b53ebbd55c4909d6423af8b41a413b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-wearable-15.0.1.aar\3e1be0b52677e7f68a7a6de720561c4c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-wearable-15.0.1.aar\3e1be0b52677e7f68a7a6de720561c4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\percent-28.0.0-beta01.aar\baca3cccf8bcd949afc98b167ae13cfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\percent-28.0.0-beta01.aar\baca3cccf8bcd949afc98b167ae13cfb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8e2c34ddeb6e57f8c80b41deb8d42627\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8e2c34ddeb6e57f8c80b41deb8d42627\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3295c039d036e2fa58b7b97180844948\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3295c039d036e2fa58b7b97180844948\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3315b574b3cb0ecfeb33c486eca5a6ef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3315b574b3cb0ecfeb33c486eca5a6ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-beta01.aar\f473beb8b27265546a8d4ada146091be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-beta01.aar\f473beb8b27265546a8d4ada146091be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:wear:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\wear-28.0.0-beta01.aar\dc6b8e190a0f32f498c90afeddee8251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:wear:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\wear-28.0.0-beta01.aar\dc6b8e190a0f32f498c90afeddee8251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-beta01.aar\02a5d0db9c3e4982f3f5e007c3558bb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-beta01.aar\02a5d0db9c3e4982f3f5e007c3558bb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-beta01.aar\ec21912bbf654788e702aa1264712a85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-beta01.aar\ec21912bbf654788e702aa1264712a85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-beta01.aar\9ac6e983bdf33796b16d5ba005bbad09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-beta01.aar\9ac6e983bdf33796b16d5ba005bbad09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-beta01.aar\b5cb6e3463c8f42d86591ba95e294e13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-beta01.aar\b5cb6e3463c8f42d86591ba95e294e13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-beta01.aar\b7f1dd10af8311a0f07adba1a0c6c4d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-beta01.aar\b7f1dd10af8311a0f07adba1a0c6c4d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-beta01.aar\d7c9bd9fef030373eaf89a42fd9c8cc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-beta01.aar\d7c9bd9fef030373eaf89a42fd9c8cc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-beta01.aar\fad98670cb62d3ba485abb6828599488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-beta01.aar\fad98670cb62d3ba485abb6828599488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-beta01.aar\51d61bbf041cc0dadc3df1a89ef5e080\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-beta01.aar\51d61bbf041cc0dadc3df1a89ef5e080\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-beta01.aar\756a2e57b2b36b53fe06e255b6cf185c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-beta01.aar\756a2e57b2b36b53fe06e255b6cf185c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-beta01.aar\19d40b17509550c3de323556778e7333\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-beta01.aar\19d40b17509550c3de323556778e7333\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-beta01.aar\4a16c5c2594717ced67d625b6ded310d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-beta01.aar\4a16c5c2594717ced67d625b6ded310d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-beta01.aar\f4a50fa47418ef2617e85ad7d8bc84c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-beta01.aar\f4a50fa47418ef2617e85ad7d8bc84c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-beta01.aar\6e4d06aca9b4c2712375a9d77c6c07a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-beta01.aar\6e4d06aca9b4c2712375a9d77c6c07a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\ac9a90d6e60a94c02257ab692c4872e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\ac9a90d6e60a94c02257ab692c4872e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-beta01.aar\a6d6554fac31fb32ac827e1745e198a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-beta01.aar\a6d6554fac31fb32ac827e1745e198a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-beta01.aar\952c325825fc67783703b067e467192e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-beta01.aar\952c325825fc67783703b067e467192e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\73d13f0fe0b7572cc99cd6bcf9aa0abd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\73d13f0fe0b7572cc99cd6bcf9aa0abd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c8a5191964027fdcfce9fb8ce5d86a9d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c8a5191964027fdcfce9fb8ce5d86a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-beta01.aar\b16b675a135a7d7cbe49537bd4db0cc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-beta01.aar\b16b675a135a7d7cbe49537bd4db0cc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-beta01.aar\4ba1072e7f0aec3fa6c0b30df43975fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-beta01.aar\4ba1072e7f0aec3fa6c0b30df43975fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-beta01.aar\e8efb6ca48392512d34da71db6b432c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-beta01.aar\e8efb6ca48392512d34da71db6b432c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\print-28.0.0-beta01.aar\4c13465680de228eaaccdeba70ba2ffa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\print-28.0.0-beta01.aar\4c13465680de228eaaccdeba70ba2ffa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1963fc9d18cf89d79ec330272d20a724\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1963fc9d18cf89d79ec330272d20a724\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f054f444ceab492b953a84c44c8bbbaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f054f444ceab492b953a84c44c8bbbaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2e36cde8d6dbce804880f823197d5088\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2e36cde8d6dbce804880f823197d5088\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+		ADDED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Data\Workspace\Android Studio\EmoMem\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8e2c34ddeb6e57f8c80b41deb8d42627\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8e2c34ddeb6e57f8c80b41deb8d42627\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8e2c34ddeb6e57f8c80b41deb8d42627\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8e2c34ddeb6e57f8c80b41deb8d42627\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3315b574b3cb0ecfeb33c486eca5a6ef\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3315b574b3cb0ecfeb33c486eca5a6ef\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3315b574b3cb0ecfeb33c486eca5a6ef\AndroidManifest.xml:24:13-58
